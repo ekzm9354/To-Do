@@ -26,7 +26,7 @@
             <tr>
                <td style=width: "10%">서버</td>
               <td style=width: "90%">
-                node.js
+                node.js, mongoDB
               </td>
             </tr>
             <tr>
