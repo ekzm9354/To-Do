@@ -7,7 +7,7 @@
         <p>
          Wait..</p>
       </div>
-      <div>
+      <div align="center">
         <h4>1. 개발환경</h4>
         <table>
           <thead width="500">
@@ -20,28 +20,19 @@
             <tr>
               <td style=width: "10%">언어</td>
               <td style=width: "90%">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
-                repellendus dignissimos itaque! Natus dolore rerum voluptatem,
-                magni, laboriosam et a architecto ea molestiae autem possimus
-                placeat, in eligendi doloremque quasi?
+                javascript, html/css
               </td>
             </tr>
             <tr>
                <td style=width: "10%">서버</td>
               <td style=width: "90%">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque
-                molestiae odio voluptas eum aut ex doloremque distinctio
-                expedita iste? Impedit laborum architecto corrupti a libero
-                cumque culpa, consectetur quasi reprehenderit.
+                node.js
               </td>
             </tr>
             <tr>
                <td style=width: "10%">참고</td>
                <td style=width: "90%">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa
-                veritatis impedit possimus id porro in atque minus commodi
-                repellendus sed ex accusamus, odit tempora assumenda laborum
-                aliquam eum dolore placeat!
+                express, body-parser, ejs, ajax, method-override, 
               </td>
             </tr>
           </tbody>
